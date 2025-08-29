@@ -13,8 +13,6 @@
 - **深耕A股增强策略**（1-2年）：在现有中低频alpha量化选股策略的基础上，继续研发smart beta的策略
 - **拓展多资产全天候配置**（3-5年）：商品期货、可转债、境外股票、数字资产等，构建完整投资组合体系
 
-🤝 **寻找合作**: 投资人 · 投研伙伴 · 主观投资者
-
 💭 **价值观**: **唯实** · **唯理** · **随心** · **随意**
 
 ---
@@ -29,8 +27,6 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 - **Deep A-shares enhancement** (1-2 years): Optimize multi-factor models and develop timing strategies beyond current low-freq stock selection
 - **Multi-asset all-weather portfolio** (3-5 years): Expand into commodities, convertible bonds, global equities, digital assets
 
-🤝 **Seeking Collaboration**: Investors · Researchers · Discretionary traders
-
 💭 **Values**: **Pragmatic** · **Rational** · **Authentic** · **Adaptable**
 
 
@@ -39,4 +35,4 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 感谢 [余天](https://github.com/yutiansut) 项目里面的 SVG 图表
 
-<img src="https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg" alt="GitHub活动统计与代码贡献分析" width="100%" />
+<img src="metrics.svg" alt="GitHub活动统计与代码贡献分析" width="100%" />
