@@ -1,0 +1,27 @@
+name: Debug Metrics Token
+on:
+  workflow_dispatch:  # 只允许手动触发
+
+jobs:
+  debug-token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if METRICS_TOKEN exists
+        run: |
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "❌ METRICS_TOKEN is empty or not set"
+            exit 1
+          else
+            echo "✅ METRICS_TOKEN is set (length: ${#METRICS_TOKEN})"
+          fi
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      
+      - name: Test basic metrics with METRICS_TOKEN
+        uses: lowlighter/metrics@latest
+        with:
+          filename: test-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
+          config_timezone: Asia/Shanghai
+          dry_run: true
