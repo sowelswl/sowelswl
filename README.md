@@ -1,23 +1,37 @@
-### Hi there 👋
+# Hi, I'm Weili Song (宋为礼) 👋
 
-- 🔭 软件开发工程师 / 技术爱好者
-- 🌱 常用语言 Python/JavaScript/TypeScript/Java/C++/Go
-- 👯 专注于全栈开发和系统架构设计
-- 💬 主要方向: Web应用开发、微服务架构、云原生技术
-- 📫 联系方式: [你的邮箱] / [你的微信]
+## 🎓 About Me
+PhD Candidate in Management Science and Engineering at Hunan University, specializing in **Quantitative Finance** and **Financial Risk Management**.
 
+## 🔬 Research Focus
+- **Computational Finance** & Financial Machine Learning
+- **Portfolio Management** & Optimization
+- **Alpha Factor Mining** & Strategy Development
+- **Sentiment Analysis** in Financial Markets
 
+## 🏆 Professional Highlights
+- 🚀 Developed and launched live trading strategies with **21.90% excess return** vs CSI 500 Index
+- 📊 Kaggle Competitions: **88th/2664**, **23rd/2064** rankings
+- 📝 Research paper **"AlphaForge"** accepted at **AAAI 2025**
+- 💼 Created stock index enhancement products at private equity scale
 
+## 🛠️ Technical Skills
+- **Languages**: Python, R, SQL, MATLAB
+- **Finance**: Portfolio Optimization (Gurobi), Factor Modeling, Risk Management
+- **ML/AI**: BERT, Time Series Analysis, Sentiment Classification
+- **Tools**: Jupyter, Git, LaTeX, Financial Databases
 
----以下为我常用维护的项目(标注语言类型, 部分项目可能为私有仓库)
+## 📈 Current Projects
+- Low-frequency alpha factor extraction using NLP
+- Portfolio optimization frameworks
+- Quantitative investment research
 
-- 前端框架与组件库 -> React/Vue.js项目, UI组件库, 响应式设计实现
-- 后端API服务 -> Node.js/Express, Spring Boot, RESTful API, GraphQL服务
-- 数据库设计与优化 -> MySQL/PostgreSQL方案, MongoDB文档数据库, Redis缓存策略  
-- 微服务架构 -> Docker容器化, Kubernetes编排, 服务网格实现
-- 云原生应用 -> AWS/Azure部署, CI/CD流水线, 监控告警系统
-- 开发工具链 -> 构建工具配置, 代码质量管控, 自动化测试框架
-- 系统架构设计 -> 分布式系统, 高并发处理, 性能优化方案
-- 技术研究项目 -> 新技术探索, 开源贡献, 技术分享输出
+## 🌐 Connect with Me
+- 🌍 Personal Website: [weilisong.com](https://weilisong.com)
+- 💼 LinkedIn: [Weili Song](https://linkedin.com/in/weilisong)
+- 🏅 Kaggle: [@weilisong](https://kaggle.com/weilisong)
+- 📚 知乎: [@宋为礼](https://zhihu.com/people/weilisong)
+
+## 📊 GitHub Stats
 
 ![Metrics](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
