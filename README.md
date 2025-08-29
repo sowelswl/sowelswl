@@ -39,4 +39,4 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 感谢 [余天](https://github.com/yutiansut) 项目里面的 SVG 图表
 
-<img src="https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg" alt="GitHub活动统计与代码贡献分析" width="75%" />
+<img src="https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg" alt="GitHub活动统计与代码贡献分析" width="100%" />
