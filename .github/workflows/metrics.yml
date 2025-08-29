@@ -2,19 +2,27 @@ name: Generate GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *"  # 每天更新
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: read
+      pages: write
+      id-token: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: sowelswl
-          base: activity
+          base: "header, activity, community, repositories, metadata"
+          config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
