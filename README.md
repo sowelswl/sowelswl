@@ -39,13 +39,35 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowelswl&theme=tokyo-night&hide_border=true)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/2F81F7/sowelswl)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🎯 更多可视化选项（可选择添加）
+### 🎯 更多GitHub热力图选项（选择你喜欢的）
+
+<!-- 紫色主题热力图 -->
+![Purple Calendar](https://ghchart.rshah.org/409ba5/sowelswl)
+
+<!-- 蓝色主题热力图 -->
+![Blue Calendar](https://ghchart.rshah.org/2F81F7/sowelswl)
+
+<!-- 绿色经典热力图 -->
+![Green Calendar](https://ghchart.rshah.org/216e39/sowelswl)
+
+<!-- 红色主题热力图 -->
+![Red Calendar](https://ghchart.rshah.org/ff6b6b/sowelswl)
+
+<!-- GitHub Profile Summary详细贡献图 -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
+
+<!-- 另一种活动图样式 -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowelswl&theme=tokyo-night&hide_border=true&custom_title=Annual%20Commit%20Activity)
+
+---
+
+### 🎯 其他可视化选项
 
 <!-- 3D 贡献图 -->
 ![3D Contribution](https://github.com/sowelswl/sowelswl/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
