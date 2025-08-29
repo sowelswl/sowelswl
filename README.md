@@ -1,8 +1,7 @@
-# 你好，我是宋伟力 👋
-
 🌐 **联系方式/Connect**
 - 💬 微信/Wechat: sowelswl
 - 📱 QQ: 405113793
+---
 
 湖南大学博士在读，有近3年私募从业经历，目前独自管理自营基金。
 
@@ -19,8 +18,6 @@
 💭 **价值观**: **唯实** · **唯理** · **随心** · **随意**
 
 ---
-
-# Hi, I'm Weili Song 👋
 
 PhD candidate at Hunan University. ~3 years private equity experience, currently managing proprietary fund independently.
 
