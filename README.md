@@ -19,3 +19,5 @@
 - 开发工具链 -> 构建工具配置, 代码质量管控, 自动化测试框架
 - 系统架构设计 -> 分布式系统, 高并发处理, 性能优化方案
 - 技术研究项目 -> 新技术探索, 开源贡献, 技术分享输出
+
+![Metrics](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
