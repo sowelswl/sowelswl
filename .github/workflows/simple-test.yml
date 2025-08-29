@@ -1,0 +1,24 @@
+name: Simple Test
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Test GITHUB_TOKEN metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header
+          
+      - name: Test METRICS_TOKEN if exists
+        uses: lowlighter/metrics@latest
+        if: ${{ secrets.METRICS_TOKEN != '' }}
+        with:
+          filename: metrics-personal.svg  
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header
