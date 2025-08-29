@@ -1,5 +1,9 @@
 # 你好，我是宋伟力 👋
 
+🌐 **联系方式/Connect**
+- 💬 微信/Wechat: sowelswl
+- 📱 QQ: 405113793
+
 湖南大学博士在读，有近3年私募从业经历，目前独自管理自营基金。
 
 🎯 **我的愿景**: 做好资产管理是我的终生目标：帮自己做好资管 → 帮家族做好资管 → 把正确的方法论传播给更多人
@@ -32,16 +36,8 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 💭 **Values**: **Pragmatic** · **Rational** · **Authentic** · **Adaptable**
 
-🛠️ **Technical Approach**: Python • SQL • Rapid prototyping • Whatever gets the job done
 
-🌐 **Connect**
-- 🌍 Personal Website: [weilisong.com](https://weilisong.com)
-- 💼 LinkedIn: [Weili Song](https://linkedin.com/in/weilisong)
-- 🏅 Kaggle: [@weilisong](https://kaggle.com/weilisong)
-- 📚 知乎: [@宋伟力](https://zhihu.com/people/weilisong)
-- 💬 微信: sowelswl
-- 📱 手机: 18571508282
 
 ## 📊 GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
+<img src="https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg" alt="GitHub活动统计与代码贡献分析" width="100%" />
