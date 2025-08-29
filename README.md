@@ -41,8 +41,8 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
 
-<!-- 蓝色主题热力图 -->
-![Blue Calendar](https://ghchart.rshah.org/2F81F7/sowelswl)
+<!-- GitHub 贡献热力图（包含私有仓库） -->
+![GitHub Contributions](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
 
 <!-- GitHub Profile Summary详细贡献图 -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
