@@ -12,11 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Personal metrics (simplified)
+      - name: Personal metrics (with GITHUB_TOKEN)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
