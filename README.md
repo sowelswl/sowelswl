@@ -33,6 +33,12 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ## 📊 GitHub Stats
 
-感谢 [余天](https://github.com/yutiansut) 项目里面的 SVG 图表
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowelswl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="metrics.svg" alt="GitHub活动统计与代码贡献分析" width="100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
+
+</div>
