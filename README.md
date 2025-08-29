@@ -34,17 +34,18 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<!-- GitHub 贡献热力图（包含私有仓库） -->
+![GitHub Contributions](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
+
+<!-- GitHub Profile Summary详细贡献图 -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowelswl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
-
-<!-- GitHub Profile Summary详细贡献图 -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
-
-<!-- GitHub 贡献热力图（包含私有仓库） -->
-![GitHub Contributions](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
 
 </div>
