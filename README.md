@@ -39,7 +39,7 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/2F81F7/sowelswl)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/sowelswl)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
 
