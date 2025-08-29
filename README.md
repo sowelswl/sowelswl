@@ -39,58 +39,12 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Contribution Calendar](https://ghchart.rshah.org/sowelswl)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
-
----
-
-### 🎯 更多GitHub热力图选项（选择你喜欢的）
-
-<!-- 紫色主题热力图 -->
-![Purple Calendar](https://ghchart.rshah.org/409ba5/sowelswl)
 
 <!-- 蓝色主题热力图 -->
 ![Blue Calendar](https://ghchart.rshah.org/2F81F7/sowelswl)
 
-<!-- 绿色经典热力图 -->
-![Green Calendar](https://ghchart.rshah.org/216e39/sowelswl)
-
-<!-- 红色主题热力图 -->
-![Red Calendar](https://ghchart.rshah.org/ff6b6b/sowelswl)
-
 <!-- GitHub Profile Summary详细贡献图 -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
-
-<!-- 另一种活动图样式 -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowelswl&theme=tokyo-night&hide_border=true&custom_title=Annual%20Commit%20Activity)
-
----
-
-### 🎯 其他可视化选项
-
-<!-- 3D 贡献图 -->
-![3D Contribution](https://github.com/sowelswl/sowelswl/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
-
-<!-- Wakatime 统计 -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowelswl&theme=tokyonight&hide_border=true)
-
-<!-- 奖杯统计 -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sowelswl&theme=tokyonight&no-frame=true&column=7)
-
-<!-- 贡献蛇形图 -->
-![Snake animation](https://raw.githubusercontent.com/sowelswl/sowelswl/output/github-contribution-grid-snake.svg)
-
-<!-- 代码时间分布 -->
-![Coding Time](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=pie&theme=tokyonight&hide_border=true)
-
-<!-- 个人简介卡片 -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
-
-<!-- 月度统计 -->
-![Monthly Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sowelswl&theme=tokyonight&utc_offset=8)
-
-<!-- 仓库统计 -->
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowelswl&theme=tokyonight)
 
 </div>
