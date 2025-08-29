@@ -39,6 +39,36 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sowelswl&theme=tokyo-night&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
+
+---
+
+### 🎯 更多可视化选项（可选择添加）
+
+<!-- 3D 贡献图 -->
+![3D Contribution](https://github.com/sowelswl/sowelswl/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
+
+<!-- Wakatime 统计 -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sowelswl&theme=tokyonight&hide_border=true)
+
+<!-- 奖杯统计 -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sowelswl&theme=tokyonight&no-frame=true&column=7)
+
+<!-- 贡献蛇形图 -->
+![Snake animation](https://raw.githubusercontent.com/sowelswl/sowelswl/output/github-contribution-grid-snake.svg)
+
+<!-- 代码时间分布 -->
+![Coding Time](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=pie&theme=tokyonight&hide_border=true)
+
+<!-- 个人简介卡片 -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
+
+<!-- 月度统计 -->
+![Monthly Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sowelswl&theme=tokyonight&utc_offset=8)
+
+<!-- 仓库统计 -->
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sowelswl&theme=tokyonight)
 
 </div>
