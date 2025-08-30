@@ -38,11 +38,5 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 <!-- 📊 综合统计图表（包含三维贡献日历和多种插件） -->
 ![GitHub Metrics](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
 
-<!-- 🎯 专门的编程习惯分析 -->
-![Coding Habits](https://raw.githubusercontent.com/sowelswl/sowelswl/main/coding-habits.svg)
-
-<!-- 💻 专门的语言统计分析 -->  
-![Languages Overview](https://raw.githubusercontent.com/sowelswl/sowelswl/main/languages-overview.svg)
-
 
 </div>

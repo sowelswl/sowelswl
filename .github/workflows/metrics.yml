@@ -1,7 +1,7 @@
 name: Generate GitHub Metrics
 on:
   schedule:
-    - cron: "0 2 * * *"  # 每天凌晨2点更新
+    - cron: "0 */6 * * *"  # 每6小时更新一次
   push:
     branches: [ main ]
   workflow_dispatch:  # 允许手动触发
@@ -19,14 +19,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: sowelswl
-          base: "header, community, repositories, metadata"  # 移除 activity
+          base: "header, community, repositories, metadata"  # 1. 个人数据
           config_timezone: Asia/Shanghai
           
-          # 📅 三维贡献日历配置
+          # 2. 三维贡献日历配置
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 🎯 编程习惯分析
+          # 3. 编程习惯分析
           plugin_habits: yes
           plugin_habits_from: 300  # 分析更多事件提高准确性
           plugin_habits_days: 21   # 分析最近21天
@@ -37,7 +37,7 @@ jobs:
           plugin_habits_languages_limit: 6 # 限制显示6种语言
           plugin_habits_languages_threshold: 1% # 1%以上才显示
           
-          # 💻 编程语言统计
+          # 4. 编程语言统计
           plugin_languages: yes
           plugin_languages_limit: 8  # 显示前8种语言
           plugin_languages_threshold: 1%  # 1%以上才显示
@@ -46,40 +46,3 @@ jobs:
           plugin_languages_sections: most-used, recently-used  # 显示常用和最近使用
           plugin_languages_indepth: yes  # 深度分析仓库
           plugin_languages_categories: programming  # 只显示编程语言
-          
-          
-      - name: 🎯 Generate Coding Habits Analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: coding-habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: sowelswl
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_habits: yes
-          plugin_habits_from: 400
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: no  # 显示完整24小时
-          plugin_habits_languages_limit: 8
-          
-      - name: 💻 Generate Languages Overview
-        uses: lowlighter/metrics@latest
-        with:
-          filename: languages-overview.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: sowelswl
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_languages: yes
-          plugin_languages_limit: 10
-          plugin_languages_threshold: 0.5%
-          plugin_languages_other: yes
-          plugin_languages_colors: rainbow
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_categories: programming, markup, data
