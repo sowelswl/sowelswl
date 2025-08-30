@@ -15,14 +15,27 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - name: Generate Metrics
+      - name: Generate Metrics with Private Repositories
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: sowelswl
           base: "header, activity, community, repositories, metadata"
           config_timezone: Asia/Shanghai
+          
+          # 贡献日历配置（包含私有仓库）
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # 活动配置
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          
+          # 习惯配置
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes

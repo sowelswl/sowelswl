@@ -35,11 +35,19 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 <div align="center">
 
-<!-- GitHub 贡献热力图（包含私有仓库） -->
-![GitHub Contributions](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
+<!-- GitHub 官方风格贡献日历 -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/sowelswl)
 
-<!-- GitHub Profile Summary详细贡献图 -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=tokyonight)
+<!-- 或者选择这些更接近官方的样式： -->
+
+<!-- 选项A: 默认GitHub绿色 -->
+<!-- ![GitHub Calendar](https://ghchart.rshah.org/sowelswl) -->
+
+<!-- 选项B: 自定义绿色更接近官方 -->
+<!-- ![GitHub Calendar](https://ghchart.rshah.org/216e39/sowelswl) -->
+
+<!-- 选项C: GitHub Profile Summary (详细统计) -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=github)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
   
