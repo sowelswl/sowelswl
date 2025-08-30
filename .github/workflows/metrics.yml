@@ -19,14 +19,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: sowelswl
-          base: "header, activity, community, repositories, metadata"
+          base: "header, community, repositories, metadata"  # 移除 activity
           config_timezone: Asia/Shanghai
           
-          # 📅 贡献日历配置（两种样式）
+          # 📅 三维贡献日历配置
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_calendar: yes
-          plugin_calendar_limit: 2  # 显示最近2年
           
           # 🎯 编程习惯分析
           plugin_habits: yes
@@ -49,22 +47,6 @@ jobs:
           plugin_languages_indepth: yes  # 深度分析仓库
           plugin_languages_categories: programming  # 只显示编程语言
           
-          # 📊 活动配置
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-
-      - name: 📅 Generate Full History Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: contribution-calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: sowelswl
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_calendar: yes
-          plugin_calendar_limit: 0  # 完整历史
           
       - name: 🎯 Generate Coding Habits Analysis
         uses: lowlighter/metrics@latest
