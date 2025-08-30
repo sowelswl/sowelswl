@@ -39,3 +39,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          
+          # 添加经典日历插件（包含私有仓库）
+          plugin_calendar: yes
+          plugin_calendar_limit: 0  # 显示完整历史

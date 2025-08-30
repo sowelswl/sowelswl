@@ -1,0 +1,41 @@
+name: Generate Contribution Calendar
+on:
+  schedule:
+    - cron: "0 2 * * *"  # 每天凌晨2点运行
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  contribution-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Full History Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: contribution-calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: sowelswl
+          base: ""  # 只显示日历，不显示其他信息
+          config_timezone: Asia/Shanghai
+          
+          # 完整历史贡献日历
+          plugin_calendar: yes
+          plugin_calendar_limit: 0  # 显示从注册开始的所有年份
+          
+      - name: Generate Current Year Calendar  
+        uses: lowlighter/metrics@latest
+        with:
+          filename: contribution-calendar-current.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: sowelswl
+          base: ""
+          config_timezone: Asia/Shanghai
+          
+          # 当前年份贡献日历
+          plugin_calendar: yes
+          plugin_calendar_limit: 1  # 只显示当前年

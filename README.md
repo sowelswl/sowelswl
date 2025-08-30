@@ -35,25 +35,19 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 
 <div align="center">
 
-<!-- GitHub 官方风格贡献日历 -->
-![GitHub Contribution Graph](https://ghchart.rshah.org/sowelswl)
+<!-- Lowlighter Metrics 完整历史贡献日历（包含私有仓库） -->
+![Contribution Calendar](https://raw.githubusercontent.com/sowelswl/sowelswl/main/contribution-calendar.svg)
 
-<!-- 或者选择这些更接近官方的样式： -->
-
-<!-- 选项A: 默认GitHub绿色 -->
-<!-- ![GitHub Calendar](https://ghchart.rshah.org/sowelswl) -->
-
-<!-- 选项B: 自定义绿色更接近官方 -->
-<!-- ![GitHub Calendar](https://ghchart.rshah.org/216e39/sowelswl) -->
-
-<!-- 选项C: GitHub Profile Summary (详细统计) -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=github)
+<!-- 当前年份贡献日历 -->
+![Current Year Calendar](https://raw.githubusercontent.com/sowelswl/sowelswl/main/contribution-calendar-current.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowelswl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=github)
 
 
 </div>
