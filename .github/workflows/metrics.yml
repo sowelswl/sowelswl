@@ -25,21 +25,34 @@ jobs:
           base: "header, activity, community, repositories, metadata"
           config_timezone: Asia/Shanghai
           
-          # 贡献日历配置（包含私有仓库）
+          # 📅 贡献日历配置（两种样式）
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 2  # 显示最近2年
           
-          # 活动配置
+          # 🎯 编程习惯分析
+          plugin_habits: yes
+          plugin_habits_from: 300  # 分析更多事件提高准确性
+          plugin_habits_days: 21   # 分析最近21天
+          plugin_habits_facts: yes # 显示有趣的编程事实
+          plugin_habits_charts: yes # 生成活动图表
+          plugin_habits_charts_type: classic # 经典图表样式
+          plugin_habits_trim: yes  # 修剪未使用的时间
+          plugin_habits_languages_limit: 6 # 限制显示6种语言
+          plugin_habits_languages_threshold: 1% # 1%以上才显示
+          
+          # 💻 编程语言统计
+          plugin_languages: yes
+          plugin_languages_limit: 8  # 显示前8种语言
+          plugin_languages_threshold: 1%  # 1%以上才显示
+          plugin_languages_other: yes  # 其他语言归类到"Other"
+          plugin_languages_colors: rainbow  # 彩虹配色
+          plugin_languages_sections: most-used, recently-used  # 显示常用和最近使用
+          plugin_languages_indepth: yes  # 深度分析仓库
+          plugin_languages_categories: programming  # 只显示编程语言
+          
+          # 📊 活动配置
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
-          
-          # 习惯配置
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # 添加经典日历插件（包含私有仓库）
-          plugin_calendar: yes
-          plugin_calendar_limit: 0  # 显示完整历史

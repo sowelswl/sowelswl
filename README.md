@@ -38,16 +38,19 @@ PhD candidate at Hunan University. ~3 years private equity experience, currently
 <!-- Lowlighter Metrics 完整历史贡献日历（包含私有仓库） -->
 ![Contribution Calendar](https://raw.githubusercontent.com/sowelswl/sowelswl/main/contribution-calendar.svg)
 
-<!-- 当前年份贡献日历 -->
-![Current Year Calendar](https://raw.githubusercontent.com/sowelswl/sowelswl/main/contribution-calendar-current.svg)
+<!-- 📊 综合统计图表（包含多种插件） -->
+![GitHub Metrics](https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg)
 
+<!-- 🎯 专门的编程习惯分析 -->
+![Coding Habits](https://raw.githubusercontent.com/sowelswl/sowelswl/main/coding-habits.svg)
+
+<!-- 💻 专门的语言统计分析 -->  
+![Languages Overview](https://raw.githubusercontent.com/sowelswl/sowelswl/main/languages-overview.svg)
+
+<!-- 🔗 备用统计图表 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowelswl&theme=tokyonight&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowelswl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowelswl&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowelswl&theme=github)
 
 
 </div>

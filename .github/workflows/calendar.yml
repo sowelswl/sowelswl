@@ -26,16 +26,42 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0  # 显示从注册开始的所有年份
           
-      - name: Generate Current Year Calendar  
+      - name: Generate Coding Habits Analysis
         uses: lowlighter/metrics@latest
         with:
-          filename: contribution-calendar-current.svg
+          filename: coding-habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: sowelswl
           base: ""
           config_timezone: Asia/Shanghai
           
-          # 当前年份贡献日历
-          plugin_calendar: yes
-          plugin_calendar_limit: 1  # 只显示当前年
+          # 专门的编程习惯分析
+          plugin_habits: yes
+          plugin_habits_from: 400
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: no  # 显示完整24小时
+          plugin_habits_languages_limit: 8
+          
+      - name: Generate Languages Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages-overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: sowelswl
+          base: ""
+          config_timezone: Asia/Shanghai
+          
+          # 专门的语言统计分析
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0.5%
+          plugin_languages_other: yes
+          plugin_languages_colors: rainbow
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_categories: programming, markup, data
