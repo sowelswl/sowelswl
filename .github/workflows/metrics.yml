@@ -30,6 +30,6 @@ jobs:
           plugin_screenshot_title: "Personal Website"
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
-          plugin_screenshot_viewport: 1280x1280
+          plugin_screenshot_viewport: 1920x1280
           plugin_screenshot_wait: 3000
           config_timezone: Asia/Shanghai
