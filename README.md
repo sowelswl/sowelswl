@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Weili Song</h1>
+<h1>Sowelswl</h1>
 <h3>Quantitative Researcher & Fund Manager</h3>
 <p>
   PhD Candidate @ <a href="https://www.hnu.edu.cn/" target="_blank">Hunan University</a>
@@ -9,12 +9,12 @@
 </p>
 
 <p>
-  <a href="mailto:405113793@qq.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:weilisong@hnu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-weilisong@hnu.edu.cn-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="sowelswl">
-    <img src="https://img.shields.io/badge/WeChat-Connect-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/WeChat-sowelswl-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
+  
   <a href="http://wpa.qq.com/msgrd?v=3&uin=405113793&site=qq&menu=yes">
     <img src="https://img.shields.io/badge/QQ-405113793-0099FF?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ" />
   </a>
