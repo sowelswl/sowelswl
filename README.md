@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Sowelswl</h1>
+<h1>Weili Song</h1>
 <h3>Quantitative Researcher & Fund Manager</h3>
 <p>
   PhD Candidate @ <a href="https://www.hnu.edu.cn/" target="_blank">Hunan University</a>
