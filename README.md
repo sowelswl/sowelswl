@@ -91,13 +91,29 @@
       <sub style="color:gray">Supporting</sub>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/DolphinDB-HFT_Database-1E90FF?style=flat-square" alt="DolphinDB"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/PyTorch-Modeling-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/Python-Core_Stack-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/ClickHouse-OLAP-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
+      <img src="https://img.shields.io/badge/DolphinDB-Time_Series-1E90FF?style=flat-square" alt="DolphinDB"/>
+      <img src="https://img.shields.io/badge/QMT-Execution-005BAC?style=flat-square" alt="QMT"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align:middle">
+      <b>Vibe Coding</b>
+      <br/>
+      <sub style="color:gray">Obsessed</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-Daily_Driver-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+      <img src="https://img.shields.io/badge/Codex-Autonomous_Dev-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+      <img src="https://img.shields.io/badge/Agent_Systems-Builder-00A67E?style=flat-square" alt="Agent Systems"/>
+      <img src="https://img.shields.io/badge/Experience-1_Year+-blue?style=flat-square" alt="1yr+"/>
     </td>
   </tr>
 </table>
+
+> 🔥 **Vibe Coding 狂热者**：过去一年深度使用 Claude Code、Codex 等 AI 编程工具进行日常开发，并持续构建各类 Agent 系统。相信"用自然语言驱动代码"是未来个人开发者的终极形态。
 
 <br/>
 
@@ -178,4 +194,3 @@
   <br/>
   <sub><i>Last Updated: 2026.05 · Deep focus, long-term compounding.</i></sub>
 </div>
-
