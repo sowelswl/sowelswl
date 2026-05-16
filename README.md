@@ -1,5 +1,5 @@
-```markdown
 <div align="center">
+
 
 <h1>Weili Song</h1>
 <h3>Discretionary Trader & Quantitative Researcher</h3>
@@ -9,15 +9,17 @@
   <b>Focus:</b> Discretionary Trading · LLM-Augmented Decision Making · Quantitative Research
 </p>
 
+
 <p>
   <a href="mailto:weilisong@hnu.edu.cn">
     <img src="https://img.shields.io/badge/Email-weilisong@hnu.edu.cn-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <img src="https://img.shields.io/badge/WeChat-sowelswl-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
-  
+
+
+  <img src="https://imgbed-1308623195.cos.ap-shanghai.myqcloud.com/WeChat-sowelswl-07C160" alt="WeChat" />
+
   <a href="http://wpa.qq.com/msgrd?v=3&uin=405113793&site=qq&menu=yes">
-    <img src="https://img.shields.io/badge/QQ-405113793-0099FF?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ" />
+    <img src="https://imgbed-1308623195.cos.ap-shanghai.myqcloud.com/QQ-405113793-0099FF" alt="QQ" />
   </a>
 </p>
 
@@ -60,6 +62,7 @@
   </tr>
 </table>
 
+
 </div>
 
 <br/>
@@ -99,6 +102,7 @@
     </td>
   </tr>
 </table>
+
 
 <br/>
 
@@ -157,6 +161,7 @@
   </tr>
 </table>
 
+
 <br/>
 
 <h3>Energy Allocation (2026 Q2)</h3>
@@ -171,11 +176,3 @@
 
 > *短期内（~1年）不涉足宏观研究或其他市场，集中精力在 A 股主观交易和 AI 辅助研究上。*
 
-<br/>
-
----
-
-<div align="center">
-  <sub><i>Last Updated: 2026.05 · Deep focus, long-term compounding.</i></sub>
-</div>
-```
