@@ -106,24 +106,24 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <b>2023 – 2024</b>
+      <b>2023 – 2025.11</b>
       <br/>
-      <sub>Foundation</sub>
+      <sub>Quant Era</sub>
     </td>
     <td align="center" width="25%">
-      <b>2025 H1</b>
+      <b>2025.11</b>
       <br/>
-      <sub>Transition</sub>
+      <sub>Turning Point</sub>
     </td>
     <td align="center" width="25%">
-      <b>2025 H2 – Now</b>
+      <b>2025.12 – 2026</b>
       <br/>
-      <sub>Current</sub>
+      <sub>Current Phase</sub>
     </td>
     <td align="center" width="25%">
-      <b>2026 – 2027</b>
+      <b>2027 – 2028+</b>
       <br/>
-      <sub>Next</sub>
+      <sub>Expansion</sub>
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@
       <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" alt="done"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/status-completed-success?style=flat-square" alt="done"/>
+      <img src="https://img.shields.io/badge/status-pivot-orange?style=flat-square" alt="pivot"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/status-in_progress-blue?style=flat-square" alt="current"/>
@@ -142,16 +142,16 @@
   </tr>
   <tr>
     <td valign="top">
-      构建 A 股中证 500 指增系统<br/>实盘跑通量化全流程<br/>积累实盘 Alpha 收益
+      构建 A 股中证 500 指增系统<br/>实盘跑通量化全流程<br/>积累近两年实盘 Alpha 收益
     </td>
     <td valign="top">
-      从纯量化转向主观交易为主<br/>开始探索 LLM 辅助交易的可能性
+      实盘验证后发现：个人量化难以持续跑赢主观交易<br/>同时意识到 LLM 辅助主观交易的巨大潜力<br/>决定转向
     </td>
     <td valign="top">
-      主观交易实盘深耕<br/>LLM 辅助交易框架初步成型<br/>量化研究同步推进
+      主观交易实盘深耕（至少持续至 2026 年底）<br/>LLM 辅助交易框架搭建中<br/>量化系统持续迭代，未停止更新
     </td>
     <td valign="top">
-      主观交易体系成熟化<br/>AI Agent 辅助研判落地<br/>量化与主观判断融合
+      视情况拓展其他市场<br/>（商品、可转债、海外权益等）<br/>宏观研究纳入考量<br/>当前阶段不分散精力
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-> *短期内（~1年）不涉足宏观研究或其他市场，集中精力在 A 股主观交易和 AI 辅助研究上。*
+> *2027 年之前不涉足宏观研究或其他市场，集中精力在 A 股主观交易和 AI 辅助研究上。*
 
 <br/>
 
@@ -178,3 +178,4 @@
   <br/>
   <sub><i>Last Updated: 2026.05 · Deep focus, long-term compounding.</i></sub>
 </div>
+
