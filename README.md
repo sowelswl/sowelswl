@@ -115,7 +115,14 @@
 
 > **核心信念：** LLM 的发展带来了智能的溢出——每个人都拥有了一个人类智慧聚合的"外挂大脑"。在智能溢出的时代，AI 辅助下大多数人都能在各领域达到 Expertise 水平；唯有在某个领域成为 **Master**，才能真正决定事情的走向、决定事业的上限。
 >
-> **Vibe Coding 狂热者** — 这是我深度拥抱 AI 的证明。2022 年下半年起接触 OpenAI（GPT-3 Completion），GPT-3.5 发布后第一时间深度使用；2024 年转入 Cursor 等 LLM-driven IDE 进行日常开发；2025 年年中全面迁移至 Claude Code。目前以 Claude Code + Codex 为主力工具，持续构建各类 Agent 系统。从 GPT-3 到 Agentic Coding，完整经历了 AI 编程范式的每一次跃迁。
+>  **Vibe Coding 狂热者** — 这是我深度拥抱 AI 的证明。
+>
+> - **2022 年下半年（GPT-3.5 发布前）：** 已在使用 GPT-3 Completion 模式辅助撰写学术论文，是国内最早一批将 LLM 融入日常工作流的用户。
+> - **2022 – 2024：** 深度使用 Anthropic Claude Chat 与 OpenAI GPT Chat 辅助日常工作，覆盖学术文档撰写与量化策略开发两大场景。
+> - **2024：** 转入 Cursor 等 LLM-driven IDE，开始以 AI 为核心进行工程化开发。
+> - **2025 年中至今：** 全面迁移至 Claude Code，同时使用 Codex 进行异步开发。持续构建各类 Agent 系统。
+>
+> 从 GPT-3 Completion 到 Chat 辅助，到 LLM-driven IDE，再到 Agentic Coding——完整经历了 AI 编程范式的每一次跃迁。
 
 <br/>
 
