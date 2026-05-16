@@ -113,7 +113,9 @@
   </tr>
 </table>
 
-> 🔥 **Vibe Coding 狂热者**：过去一年深度使用 Claude Code、Codex 等 AI 编程工具进行日常开发，并持续构建各类 Agent 系统。相信"用自然语言驱动代码"是未来个人开发者的终极形态。
+> **核心信念：** LLM 的发展带来了智能的溢出——每个人都拥有了一个人类智慧聚合的"外挂大脑"。在智能溢出的时代，AI 辅助下大多数人都能在各领域达到 Expertise 水平；唯有在某个领域成为 **Master**，才能真正决定事情的走向、决定事业的上限。
+>
+> **Vibe Coding 狂热者** — 这是我深度拥抱 AI 的证明。2022 年下半年起接触 OpenAI（GPT-3 Completion），GPT-3.5 发布后第一时间深度使用；2024 年转入 Cursor 等 LLM-driven IDE 进行日常开发；2025 年年中全面迁移至 Claude Code。目前以 Claude Code + Codex 为主力工具，持续构建各类 Agent 系统。从 GPT-3 到 Agentic Coding，完整经历了 AI 编程范式的每一次跃迁。
 
 <br/>
 
