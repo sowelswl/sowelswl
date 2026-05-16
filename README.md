@@ -2,149 +2,95 @@
 
 <h1>Weili Song</h1>
 <h3>Discretionary Trader & Quantitative Researcher</h3>
-<p>
-  PhD Candidate @ <a href="https://www.hnu.edu.cn/" target="_blank">Hunan University</a>
-  <br/>
-  <b>Focus:</b> Discretionary Trading · AI-Augmented Decision Making · Quantitative Research
-</p>
 
-<p>
-  <a href="mailto:weilisong@hnu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-weilisong@hnu.edu.cn-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <img src="https://img.shields.io/badge/WeChat-sowelswl-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
-  
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=405113793&site=qq&menu=yes">
-    <img src="https://img.shields.io/badge/QQ-405113793-0099FF?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ" />
-  </a>
-</p>
+PhD Candidate @ [Hunan University](https://www.hnu.edu.cn/)
+
+**Focus:** Discretionary Trading · LLM-Augmented Decision Making · Quantitative Research
+
+---
+
+**Email:** [weilisong@hnu.edu.cn](mailto:weilisong@hnu.edu.cn) · **WeChat:** sowelswl · **QQ:** [405113793](http://wpa.qq.com/msgrd?v=3&uin=405113793&site=qq&menu=yes)
+
+</div>
 
 <br/>
+
+## About Me
 
 <table>
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <h3>🇨🇳 关于我</h3>
+      <h4>中文</h4>
       <p>
-        <b>背景：</b>湖南大学管理科学博士在读，拥有3年私募从业经验。现独立管理自营资金，专注于主观交易与 AI 辅助决策。
+        湖南大学管理科学博士在读，拥有3年私募从业经验。现独立管理自营资金，以主观交易为核心，量化研究同步推进。
       </p>
       <p>
         <b>当前重心：</b>
-        <br/>
-        🎯 <b>主观交易</b> — 核心精力所在，A 股实盘交易。
-        <br/>
-        🔬 <b>量化研究</b> — 同步推进中，侧重 LLM 与交易决策的结合。
       </p>
+      <ul>
+        <li>主观交易 — 核心精力所在，A 股实盘。</li>
+        <li>LLM 辅助交易 — 探索大模型在主观决策中的应用。</li>
+        <li>量化研究 — 持续迭代中，作为方法论补充。</li>
+      </ul>
       <p>
         <b>愿景：</b>以交易为终身事业。在主观判断中融入系统化思维，用 AI 拓展认知边界。
       </p>
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <h3>🇺🇸 About Me</h3>
+      <h4>English</h4>
       <p>
-        <b>Background:</b> PhD Candidate at HNU. ~3 yrs in PE. Independently managing proprietary capital with a focus on discretionary trading & AI-augmented strategies.
+        PhD Candidate at HNU with ~3 years in private equity. Independently managing proprietary capital, primarily through discretionary trading with concurrent quantitative research.
       </p>
       <p>
         <b>Current Focus:</b>
-        <br/>
-        🎯 <b>Discretionary Trading</b> — Primary effort. Live A-share portfolio.
-        <br/>
-        🔬 <b>Quant Research</b> — Ongoing. Exploring LLM × Trading synergies.
       </p>
+      <ul>
+        <li>Discretionary Trading — Primary effort, live A-share portfolio.</li>
+        <li>LLM-Augmented Trading — Exploring large language models as decision support.</li>
+        <li>Quant Research — Ongoing iteration as methodological complement.</li>
+      </ul>
       <p>
-        <b>Vision:</b> Trading as a lifelong craft. Systematic thinking within discretionary frameworks. Expanding cognitive edge through AI.
+        <b>Vision:</b> Trading as a lifelong craft. Systematic thinking within discretionary frameworks, expanding cognitive edge through AI.
       </p>
     </td>
   </tr>
 </table>
 
-</div>
+<br/>
+
+## Core Interests
+
+| Domain | Description |
+| :--- | :--- |
+| **Discretionary Trading** | Price action, pattern recognition, position sizing. A-shares focused. |
+| **AI x Trading** | LLM-based decision support, autonomous research agents, sentiment parsing. |
+| **Quant Infrastructure** | Factor modeling, event-driven backtesting, time-series databases (DolphinDB, ClickHouse). |
 
 <br/>
 
-<h3>🧠 Core Interests</h3>
+## Timeline
 
-<table>
-  <tr>
-    <td width="25%" align="center" style="vertical-align:middle">
-      <b>Discretionary Trading</b>
-      <br/>
-      <sub style="color:gray">Primary</sub>
-    </td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/A--Shares-Active_Trading-CF1322?style=flat-square" alt="A-Shares"/>
-      <img src="https://img.shields.io/badge/Pattern_Recognition-Price_Action-FF6600?style=flat-square" alt="Price Action"/>
-      <img src="https://img.shields.io/badge/Risk_Mgmt-Position_Sizing-333333?style=flat-square" alt="Risk Management"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align:middle">
-      <b>AI × Trading</b>
-      <br/>
-      <sub style="color:gray">Exploration</sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/LLM-Decision_Support-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>
-      <img src="https://img.shields.io/badge/NLP-Sentiment_&_News-4285F4?style=flat-square" alt="NLP"/>
-      <img src="https://img.shields.io/badge/Agent-Autonomous_Research-00A67E?style=flat-square" alt="Agent"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align:middle">
-      <b>Quant Infra</b>
-      <br/>
-      <sub style="color:gray">Supporting</sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/DolphinDB-HFT_Database-1E90FF?style=flat-square" alt="DolphinDB"/>
-      <img src="https://img.shields.io/badge/PyTorch-Modeling-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/Python-Core_Stack-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3>🗺 Timeline</h3>
-
-```
-2023 ─────── 2024 ─────── 2025.H1 ─────── NOW (2026.Q2) ─────── 2027 ──→
-```
-
-| Phase | Period | What Happened / What's Planned |
+| Period | Phase | Detail |
 | :--- | :--- | :--- |
-| ✅ **Foundation** | 2023 – 2024 | 构建 A 股中证 500 指增系统，实盘跑通量化全流程，积累实盘 Alpha。 |
-| ✅ **Transition** | 2025 H1 | 从纯量化转向主观交易为主，开始探索 LLM 在交易辅助中的可能性。 |
-| 🔄 **Current** | 2025 H2 – 2026 | 主观交易实盘深耕；量化研究同步推进；LLM 辅助交易框架初步成型。 |
-| 🎯 **Next** | 2026 – 2027 | 主观交易体系成熟化；AI Agent 辅助研判落地；量化策略与主观判断融合。 |
+| 2023 – 2024 | **Foundation** | Built and deployed CSI 500 index enhancement system. Full quant pipeline live with consistent Alpha. |
+| 2025 H1 | **Transition** | Shifted primary focus from pure quant to discretionary trading. Initial exploration of LLM in trading context. |
+| 2025 H2 – 2026 | **Current** | Discretionary trading deepening. LLM-augmented framework taking shape. Quant research ongoing in parallel. |
+| 2026 – 2027 | **Next** | Mature discretionary system. AI Agent for research automation. Convergence of quant methods and discretionary judgment. |
 
 <br/>
 
-<h3>📌 Current Status (2026.Q2)</h3>
+## Energy Allocation (2026 Q2)
 
-```text
-┌─────────────────────────────────────────────────────┐
-│  🎯 主观交易 (Discretionary)         ████████░░  80%  │
-│  🔬 量化 & AI 研究 (Quant & AI)      ██░░░░░░░░  20%  │
-│  🌐 宏观 / 多市场 (Macro / Others)   ░░░░░░░░░░   0%  │
-└─────────────────────────────────────────────────────┘
-```
-
-> *短期内（~1年）不涉足宏观研究或其他市场，集中精力在 A 股主观交易和 AI 辅助研究上。*
+| Area | Status |
+| :--- | :--- |
+| **Discretionary Trading** | Primary — ~80% of bandwidth |
+| **Quant & AI Research** | Secondary — ~20% of bandwidth |
+| **Macro / Other Markets** | Paused — not in scope for the coming year |
 
 <br/>
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sowelswl/sowelswl/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
-  <br/>
-  <br/>
-  <sub><i>Last Updated: 2026.05 | February February February February focus, long-term compounding.</i></sub>
+  <sub>Last Updated: 2026.05 · Deep focus, long-term compounding.</sub>
 </div>
-```
-
-```html
-<sub><i>Last Updated: 2026.05 | Deep focus, long-term compounding.</i></sub>
-```
-
-你觉得整体方向对吗？有哪些地方想再调整的？
