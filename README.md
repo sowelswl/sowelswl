@@ -1,24 +1,3 @@
-*Thinking...*
-
-> The user wants me to:
-> 
-> 1. Restructure the energy allocation / categories so that:
->    - "主观交易" and "AI 辅助主观交易" are grouped together (since AI is serving the discretionary trading)
->    - "量化研究" stands on its own as a separate line
-> 
-> 2. Make the timeline section more visual/better designed.
-> 
-> Let me rethink the structure:
-> 
-> Energy Allocation:
-> - 主观交易 & AI 辅助 (Discretionary + AI-Augmented) — ~80%
-> - 量化研究 (Quant Research) — ~20%
-> 
-> 
-> - 宏观 / 多市场 (Macro / Others) — 0%
-> 
-> I should also update the core interests table to reflect this grouping, with discretionary and AI-augmented trading as the primary focus and quant research as supporting. For the timeline, I need to redesign it to be more visually appealing while staying compatible with Markdown and GitHub README formatting.
-
 ```markdown
 <div align="center">
 
