@@ -33,7 +33,7 @@ AI 与 LLM 用于扩大信息处理和研究效率，但不替代对仓位、判
 | --- | --- |
 | [苏牙说](https://mp.weixin.qq.com/s/c45VdLSXmSYlyz7NHEo8Fw) | 每个交易日前发布的主观盘前观点，是公开内容与读者关系的主要入口 |
 | [苏牙投资](https://www.suyainvestments.com/?utm_source=github.com&utm_medium=profile&utm_campaign=github_profile) | 个人完整自营组合的历史记录，包含基准、回撤、区间表现与方法说明 |
-| **公开择时账本（建设中，即将公开）** | 记录事前时间戳、延迟揭示的五档市场状态、失败阶段与修订，不公开模型代码或实时信号 |
+| [公开择时账本](https://github.com/sowelswl/suya-market-regime-ledger) | 记录事前时间戳、延迟揭示的五档市场状态、失败阶段与修订；验证工具已公开，第一条记录从真实的下一次信号开始 |
 | [AlphaForge](https://ojs.aaai.org/index.php/AAAI/article/view/33365) | AAAI 2025，共同作者（作者列表第 2 位），研究公式化 Alpha 因子挖掘与动态组合 |
 
 “苏牙”是长期品牌，“苏牙说”负责主观观点，“苏牙投资”负责个人自营研究与历史记录；所有公开内容最终都由宋伟力本人表达、解释并承担责任。

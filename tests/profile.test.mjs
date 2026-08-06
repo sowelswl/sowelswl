@@ -29,7 +29,8 @@ test("profile uses the settled Suya brand roles and evidence links", async () =>
   assert.match(readme, /https:\/\/www\.suyainvestments\.com\//)
   assert.match(readme, /https:\/\/mp\.weixin\.qq\.com\/s\/c45VdLSXmSYlyz7NHEo8Fw/)
   assert.match(readme, /https:\/\/ojs\.aaai\.org\/index\.php\/AAAI\/article\/view\/33365/)
-  assert.match(readme, /公开择时账本[^\n]*(?:建设中|即将公开)/)
+  assert.match(readme, /\[公开择时账本\]\(https:\/\/github\.com\/sowelswl\/suya-market-regime-ledger\)/)
+  assert.doesNotMatch(readme, /公开择时账本（建设中|公开择时账本[^\n]*即将公开/)
   assert.doesNotMatch(readme, /会员价格|立即购买|付费信号/)
 })
 
