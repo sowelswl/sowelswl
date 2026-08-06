@@ -2,49 +2,49 @@
 
 # 宋伟力 · Weili Song
 
-**主观交易者 · AI 辅助决策 · 量化研究者**
+**量化与主观结合的自营交易者**
 
 湖南大学管理科学与工程博士研究生，拥有 3 年私募从业经验。<br/>
-现独立管理自营资金，专注于 A 股主观交易、LLM 辅助研究与量化方法。
+现独立管理自营资金，长期专注于 A 股交易、量化研究与风险管理。
 
-*PhD candidate at Hunan University, focused on discretionary trading, AI-augmented research, and quantitative methods.*
+*Hybrid quantitative and discretionary proprietary trader focused on China A-shares.*
 
-[个人主页](https://weilisong.com/) · [实盘报告](https://www.suyainvestments.com/?utm_source=github.com&utm_medium=profile&utm_campaign=github_profile) · [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33365) · [文章与复盘](https://weilisong.com/notes/) · [邮件联系](mailto:weilisong@hnu.edu.cn)
+[个人主页](https://weilisong.com/) · [苏牙说](https://mp.weixin.qq.com/s/c45VdLSXmSYlyz7NHEo8Fw) · [投资记录](https://www.suyainvestments.com/?utm_source=github.com&utm_medium=profile&utm_campaign=github_profile) · [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33365) · [投研交流](https://weilisong.com/connect/research/)
 
 </div>
 
 ---
 
-## 现在在做什么
+## 我的交易方法
 
-- **主观交易**：围绕 A 股价格行为、仓位管理与风险控制持续实践，由人对判断、仓位和结果负责。
-- **AI 辅助研究**：用 LLM 与 Agent 系统处理信息、形成预案并复盘决策，让 AI 扩展研究边界，而不是替代责任。
-- **量化研究**：保留因子研究、组合优化与实盘评估能力，把系统化检验作为主观判断的方法论补充。
+我不是纯主观交易者，也不是把决策完全交给模型的系统交易者。我的方法是一条连续的研究链路：
 
-> 我的目标不是为某一种工具辩护，而是把判断、系统与 AI 放在各自最合适的位置。
+1. **主观研究寻找方向**：从市场结构、风格与交易机会中提出值得验证的问题，并明确失效条件。
+2. **量化研究形成择时信号和子策略**：用数据检验方向，把观点转化为可以复核、可以追踪的市场状态与辅助策略。
+3. **主观完成策略组合与风险判断**：组合使用子策略，将市场状态映射到风险暴露，并负责尾部风险下的最终决策。
 
-## 代表工作
+核心择时框架每天计算一次，把市场划分为 **强空、弱空、看平、弱多、强多** 五档。状态本身不是统一的仓位指令；不同交易者应根据自己的风险偏好选择相应暴露。
 
-| 方向 | 可查看的工作 |
+AI 与 LLM 用于扩大信息处理和研究效率，但不替代对仓位、判断和结果的责任。
+
+## 苏牙的公开部分
+
+| 载体 | 作用与证据 |
 | --- | --- |
-| 个人档案 | [weilisong.com](https://weilisong.com/) — 经历、研究方向、投资观与联系方式 |
-| 实盘记录 | [苏牙投资](https://www.suyainvestments.com/?utm_source=github.com&utm_medium=profile&utm_campaign=github_profile) — 量化实盘档案、基准比较与风险指标 |
-| 学术研究 | [AlphaForge](https://ojs.aaai.org/index.php/AAAI/article/view/33365) — AAAI 2025，共同作者（作者列表第 2 位） |
-| 写作与复盘 | [文章归档](https://weilisong.com/notes/) · [苏牙说代表文章](https://mp.weixin.qq.com/s/c45VdLSXmSYlyz7NHEo8Fw) |
+| [苏牙说](https://mp.weixin.qq.com/s/c45VdLSXmSYlyz7NHEo8Fw) | 每个交易日前发布的主观盘前观点，是公开内容与读者关系的主要入口 |
+| [苏牙投资](https://www.suyainvestments.com/?utm_source=github.com&utm_medium=profile&utm_campaign=github_profile) | 个人完整自营组合的历史记录，包含基准、回撤、区间表现与方法说明 |
+| **公开择时账本（建设中，即将公开）** | 记录事前时间戳、延迟揭示的五档市场状态、失败阶段与修订，不公开模型代码或实时信号 |
+| [AlphaForge](https://ojs.aaai.org/index.php/AAAI/article/view/33365) | AAAI 2025，共同作者（作者列表第 2 位），研究公式化 Alpha 因子挖掘与动态组合 |
 
-研究与数据科学经历还包括 Kaggle LLM Science Exam **88 / 2664**、CommonLit **23 / 2064**、AMEX Default **50 / 4874**，以及 Ubiquant Challenge **6 / 532**。
+“苏牙”是长期品牌，“苏牙说”负责主观观点，“苏牙投资”负责个人自营研究与历史记录；所有公开内容最终都由宋伟力本人表达、解释并承担责任。
 
-<sub>实盘与历史信息仅用于研究和交流，不构成投资建议，也不代表或保证未来表现。</sub>
+<sub>历史信息仅用于研究与交流，不构成投资建议，不募集资金，不代客理财，也不代表或保证未来表现。</sub>
 
-## AI 与工程路径
+## 研究与工程
 
-我从 2022 年下半年开始使用 GPT-3 Completion 辅助论文写作，随后经历对话式协作、AI 原生 IDE，再到 Claude Code、Codex 与 Agentic Coding。现在更关心的不是“用了哪个模型”，而是如何把模型嵌入可复核、可迭代的真实工作流。
+我更关心能否把研究做成可复核、可迭代的真实工作流，而不是展示工具清单。当前主要使用 Python、PyTorch、PostgreSQL、ClickHouse、DolphinDB、QMT、TypeScript 与 Next.js，并通过 Claude Code、Codex 和 Agent Systems 辅助研究与工程实现。
 
-**研究与工程栈**<br/>
-Python · PyTorch · PostgreSQL · ClickHouse · DolphinDB · QMT · TypeScript · Next.js
-
-**当前 AI 工作栈**<br/>
-Claude Code · Codex · Agent Systems · LLM-assisted Research
+过往数据科学经历包括 Kaggle LLM Science Exam **88 / 2664**、CommonLit **23 / 2064**、AMEX Default **50 / 4874**，以及 Ubiquant Challenge **6 / 532**；更多公开信息见 [Kaggle Profile](https://www.kaggle.com/abel4260)。
 
 ## 与我联系
 
@@ -61,6 +61,7 @@ Claude Code · Codex · Agent Systems · LLM-assisted Research
   </tr>
 </table>
 
+- 投研交流：[申请入口](https://weilisong.com/connect/research/)
 - Email：[weilisong@hnu.edu.cn](mailto:weilisong@hnu.edu.cn)
 - 微信：`sowelswl` · QQ：`405113793`
 - [LinkedIn](https://www.linkedin.com/in/weili-song-414a43288) · [知乎](https://www.zhihu.com/people/song-wei-li-54) · [雪球](https://xueqiu.com/u/3404936887)
@@ -68,5 +69,5 @@ Claude Code · Codex · Agent Systems · LLM-assisted Research
 ---
 
 <div align="center">
-  <sub>长期积累，持续复盘。 Build judgment. Test it with systems.</sub>
+  <sub>判断提出问题，系统检验答案。 Judgment asks. Systems test.</sub>
 </div>

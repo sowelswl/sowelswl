@@ -1,7 +1,7 @@
 name: GitHub metrics
 on:
   schedule:
-    - cron: "0 */1 * * *"  # 每1小时更新一次
+    - cron: "0 0 * * 1"  # 每周一 08:00（北京时间）更新
   push:
     branches: [ main ]
   workflow_dispatch:  # 允许手动触发
